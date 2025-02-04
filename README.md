@@ -13,3 +13,5 @@ Outils : Git, GitHub, Visual Studio Code
 Le programme s'ouvre sur une fenêtre de bienvenue. *à compléter*
 ### Gestion des entrées et des erreurs
 *Il n'y aura pas d'erreur, vous inquiétez pas x)*
+
+![](https://i.postimg.cc/zGkYrkfy/fire-works.png)
